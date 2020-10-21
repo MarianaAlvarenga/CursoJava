@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    background-color: indigo;
+}
+h1, ul{
+    color: white;
+    text-align: center;
+}
+li{
+    list-style: none;
+    color: white;
+    text-align: left;
+}
+a{
+    font-size: 40px;
+    text-decoration-line: none;
+   
+}
+

@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+html {
+	font-family: Montserrat, serif;
+	margin: 0;
+	padding-bottom: 800px;
+}
+.flex-container{
+    width: 80vw;
+    height: 50vh;
+    background-color: rebeccapurple;
+    display: flex;
+    flex-direction: row; /*Row-reverse pone el principio de los divs al final|Si pongo "column" se encolumnan las cajas*/
+    justify-content: space-between; /*alinea los elementos en el eje principal(main-axis)*/
+
+}
+.flex-item{
+    background-color: palegreen;
+    width: 10vw;
+    height: 15vh;
+}
+.flex-item2{
+    background-color: rgb(32, 89, 155);
+    width: 10vw;
+    height: 15vh;
+}
+img{
+    display: flex;
+    align-items: flex-start;
+}

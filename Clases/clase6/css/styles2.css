@@ -1,0 +1,19 @@
+table{
+    border: 2px solid black; /*double|dotted*/
+}
+td{
+    border-left: 1px dotted orangered;
+    border-right: 1px solid green;
+    border-bottom: 1px double blue;
+    border-top: 1 px solid pink;
+}
+button{
+    border-radius: 25px;
+}
+ol li{
+    list-style-type: upper-roman; /*upper-alpha|lower-alpha|lower-roman*/
+}
+
+ul li{
+    list-style-type: none; /*square|circle|*/
+}

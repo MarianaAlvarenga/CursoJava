@@ -1,0 +1,45 @@
+/*Selector Universal
+*{
+    color: blue;
+}
+*/
+/*Selectores de etiqueta
+h2{
+    color: green;
+}
+h1, h3, h4{
+    color: blue;
+}*/
+/*Selectores de clase*/
+.atras{
+	color: black;
+	font-size: 2rem;
+}
+.atras a{
+	text-decoration: none;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.rojo{
+    color: red;
+    font-size: 32px;
+    font-weight: 800;
+}
+.italic{
+    font-style: italic;
+    font-weight: 100;
+}
+/*Selectores de tipo ID*/
+#subtitulo{
+    background-color: yellow;
+}
+.color{
+    color: rgb(red, green, blue)
+}
+.parrafouno{
+    font-size: 4rem;
+}
+.parrafodos{
+    
+}

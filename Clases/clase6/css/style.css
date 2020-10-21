@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+.atras{
+    color: black;
+    font-size: 2rem;
+}
+span img{
+    width: 250px;
+    height: 300px;
+}
+header{
+    background-color: #A36BFF;
+}
+section{
+    background-color: #FFA36B;
+}
+article{
+    background-color: #FF6B7D;
+}
+footer{
+ background-color:  #78DBBC;
+}
+
+/*Propiedades de texto*/
+h1{
+    letter-spacing: 2em;/*acepta medidas absolutas, relativas y flexibles*/
+    text-align: center;/*left|right|justify*/
+    text-shadow: 1px 2px #FF0000; /*Le da la "sombra" al texto*/
+}
+.parrafouno{
+    word-spacing: 5px;/**/
+}
+.parrafodos{
+    text-transform: uppercase; /*lowercase|capitalize*/
+}
+h3{
+    text-decoration: underline overline;/*underline|overline undderline*/
+    text-decoration-color: red;/*RGB|RGBA|HSL|HSLA|#XXXXX*/
+    text-decoration-style: wavy;
+}
+h4{
+    text-shadow: 1px 2px #FF0000;
+}
+
+/*Bordes*/

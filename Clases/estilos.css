@@ -1,0 +1,42 @@
+
+h1{
+    text-align: center;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.html, .css, .boot, .js{
+    font-size: 2rem;
+}
+.html{
+    color: #F16529;
+}
+.css{
+    color: #2EA7E5;
+}
+.boot{
+    color: #804ECB;
+}
+.js{
+    color: #EFD81D;
+}
+.dropdown-item:hover{
+    background-color: grey;
+}
+body{
+    background-image: url("images/fondo.jpg");
+    background-size: cover;
+}
+input{
+    height: 3em;
+    width: 20em;   
+    border: none;
+    border-bottom: rgba(202, 103, 103, 0.5) ;
+}
+
+footer{
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+nav{
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    background-color: #7fffd4;
+    justify-content: right;
+    justify-content: space-around;
+    
+}
+a{
+    padding-top: 2.5%;
+    text-decoration-line: none;
+    color: #000;
+}
+a:hover{
+    color: grey;
+    transition-duration: 1s;
+}
+
+i{
+    height: 200px;
+    width: auto;
+}

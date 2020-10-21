@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+
+}
+.principal{
+    background-image: url("../img/cajas.png");
+    background-size: cover;
+    height: 450px;
+}
+nav{
+    background-color: #0078D4;
+    height: 200px;
+}
+button{
+    margin-top: 50px;
+    width: 400px;
+    height: 100px;
+    background-color: #5b9bcc;
+    border-color: #9ebacf;
+    color: #1e4461;
+    font-size: 40px;
+}
+button:hover{
+    cursor: pointer;
+}
+.cajauno{
+    margin-left: 225px;
+}
+.atras{
+    color: #1e4461;
+    font-size: 40px;
+    margin-bottom: 0;
+}
