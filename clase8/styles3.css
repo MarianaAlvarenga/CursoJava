@@ -27,3 +27,6 @@ img{
     display: flex;
     align-items: flex-start;
 }
+.atras:hover{
+    color: blueviolet;
+}

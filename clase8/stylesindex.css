@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(38, 65, 116);
+    color: white;
+}
+.atras{
+    font-size: 2rem;
+    color: rgb(112, 112, 161);
+    margin: 1rem;
+}
+h1{
+    text-align: center;
+    background-color: rgb(31, 31, 109);
+    border-radius: 50%;
+    padding: 1rem;
+    width: 20vw;
+    margin-bottom: 2rem;
+}
+main{
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+main a{
+    text-decoration: none;
+    margin: 0.5rem;
+}
