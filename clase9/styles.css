@@ -1,0 +1,26 @@
+html{
+    background-color: #333333;
+    color: blanchedalmond;
+}
+header h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Henny Penny', cursive;
+}
+header a{
+    color: blanchedalmond;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+ul li{
+    list-style: none;
+    margin: 0.5rem;
+}
+li a{
+    text-decoration: none;
+    color: blanchedalmond;
+}

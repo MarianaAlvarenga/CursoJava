@@ -1,6 +1,4 @@
-@import url('
-https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap
-');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 * {
 	margin: 0;
 	padding: 0;
@@ -47,4 +45,8 @@ img[alt$="verde"] {
    /* todas las imagenes donde el valor de alt 
       que terminen con "verde" se les va a aplicar un box-shadow. $ indica que va a seleccionar
       solo a los elementos que terminen con el valor indicado */
+}
+.atras{
+  color: red;
+  margin: 0.5rem;
 }

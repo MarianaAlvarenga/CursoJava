@@ -1,0 +1,11 @@
+body{
+    background-color: blueviolet;
+}
+a{
+    text-decoration: none;
+    color: rgb(214, 139, 195);
+}
+.atras{
+    font-size: 2rem;
+    margin: 1rem;
+}

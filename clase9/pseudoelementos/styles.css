@@ -20,3 +20,8 @@ p::selection {
 	background-color: red;
 	color: white;
 }
+.atras{
+	color: red;
+	margin: 0.5rem;
+	font-size: 2rem;
+}

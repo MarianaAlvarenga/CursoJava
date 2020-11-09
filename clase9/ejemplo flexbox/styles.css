@@ -82,3 +82,6 @@ section {
     flex-direction: column; 
     justify-content: space-between; 
 }
+a{
+	color: blanchedalmond;
+}

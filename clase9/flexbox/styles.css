@@ -24,3 +24,14 @@
 .flex-item:nth-child(even) {
 	background-color: orange;
 }
+.titulo{
+	display: flex;
+	justify-content: center;
+}
+.link{
+	display: flex;
+	justify-content: flex-start;
+}
+.atras, .titulo h1{
+    color: black;
+    margin: 1rem;}

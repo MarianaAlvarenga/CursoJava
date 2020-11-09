@@ -1,0 +1,17 @@
+.atras, .titulo, ul li{
+    color: royalblue;
+}
+.titulo{
+    margin: 0.5rem;
+}
+.atras{
+    font-size: 2rem;
+    margin: 0.5rem;
+}
+ul li{
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+    color: royalblue;
+}

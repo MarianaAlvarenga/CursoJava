@@ -6,8 +6,12 @@
 body {
 	background-color: violet;
 }
-
-/* media queries */
+h1 {
+	font-family: 'Lobster', sans serif;
+	text-align: center;
+	font-size: 3rem;
+}
+/* ----- Media Queries ----- */
 @media screen and (max-width: 400px) {
 	body {
 		background-color: red;
@@ -23,11 +27,34 @@ body {
 		background-color: green;
 	}
 
+
+/* Extra small devices
+@media only screen and (max-width: 600px) {
+	...
 }
-/* ---
-pantallas extra chicas
-@media only screen and max-width: 600px;
-pantallas chicas (tablets y celulares grandes)
- min-width: 768px;
- pantallas grandes (algunas pantallas de escritorio)
- min-width: 992px (aprx);
+
+Small devices  
+@media only screen and (min-width: 600px) {
+	...
+}
+
+Medium devices 
+@media only screen and (min-width: 768px) {	
+	...
+) 
+
+Large devices 
+@media only screen and (min-width: 992px) {
+	...
+}
+
+Extra large devices 
+@media only screen and (min-width: 1200px) {
+	...
+}
+*/
+.atras{
+	font-size: 2rem;
+	color: magenta;
+	margin: 1rem;
+}
